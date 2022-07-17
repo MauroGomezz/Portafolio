@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.24738cff.css",
+    "main.js": "/Portafolio/static/js/main.78f3c351.js",
+    "static/media/api-peliculas.png": "/Portafolio/static/media/api-peliculas.9ee6616376c976730362.png",
+    "static/media/unplashApp.png": "/Portafolio/static/media/unplashApp.34e174f90176429174f3.png",
+    "static/media/weatherApp.png": "/Portafolio/static/media/weatherApp.0def5afbcec2c0e8c695.png",
+    "static/media/MAURO GOMEZ.pdf": "/Portafolio/static/media/MAURO GOMEZ.6b044c4b77fb2dfd8a21.pdf",
+    "static/media/becas-para-programadores-de-software-Ruta-Noticias.jpg": "/Portafolio/static/media/becas-para-programadores-de-software-Ruta-Noticias.2945671405e26d330fb5.jpg",
+    "static/media/dragDrop.png": "/Portafolio/static/media/dragDrop.6ba9d5fae451f424c123.png",
+    "static/media/todoApp.png": "/Portafolio/static/media/todoApp.819ff25e2e8913b5a1cf.png",
+    "index.html": "/Portafolio/index.html",
+    "main.24738cff.css.map": "/Portafolio/static/css/main.24738cff.css.map",
+    "main.78f3c351.js.map": "/Portafolio/static/js/main.78f3c351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24738cff.css",
+    "static/js/main.78f3c351.js"
+  ]
+}
