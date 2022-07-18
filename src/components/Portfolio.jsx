@@ -18,7 +18,7 @@ const Portfolio = () => {
           <span className="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span>
         </p>
       </div>
-      <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
         <div class="col">
           <div class="card h-100 border-0">
             <img src={api_pelicula_img} class="card-img-top" alt="..." />
