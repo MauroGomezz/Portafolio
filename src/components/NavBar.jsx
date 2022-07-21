@@ -1,12 +1,8 @@
-import React, { useState } from 'react'
-import profile from '../assets/img/SharedScreenshot.jpg';
+import profile from '../assets/img/5ca5b470-6495-42f9-a460-69b0a459d8c4.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBars } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 const NavBar = () => {
-
-
   return (
     <nav className='primary-menu navbar navbar-expand-lg navbar-text-light border-bottom-0 position-fixed top-0 h-100 block'>
         <div className="container-fluid position-relative h-100 flex-lg-column ps-3 px-lg-3 pt-lg-3 pb-lg-2">
