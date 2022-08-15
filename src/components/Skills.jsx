@@ -23,13 +23,13 @@ const Skills = ({cv}) => {
               <p className="badge bg-danger text-2 fw-normal">1 de Abril de 2022</p>
               <h3 className="text-white">Curso de Desarrollo Web en Html5 y Css3</h3>
               <p className="text-primary">Universidad Tecnológica Nacional</p>
-              <p className="text-white-50 mb-0">Este curso está diseñado para que puedas idear, maquetar y finalmente realizar tus sitios web de manera profesional, basándonos en el código y utilizando HTML5 para confeccionar tus sitios dinámicos y adaptables a cualquier dispositivo visual: un monitor de PC, un teléfono móvil o una tablet.</p>
+              <p className="text-white-50 mb-0">Este curso está diseñado para poder idear, maquetar y finalmente realizar sitios web de manera profesional, basándonse en el código y utilizando HTML5 para confeccionar tus sitios dinámicos y adaptables a cualquier dispositivo visual: un monitor de PC, un teléfono móvil o una tablet.</p>
             </div>
             <div className="bg-dark rounded p-4 mb-4">
               <p className="badge bg-danger text-2 fw-normal">2 de Junio de 2022</p>
               <h3 className="text-white">Curso de Desarrollo Web con JavaScript</h3>
               <p className="text-primary">Universidad Tecnológica Nacional</p>
-              <p className="text-white-50 mb-0">Conocer Javascript desde un punto de vista práctico y, al mismo tiempo, utilizar varias herramientas para dotar de dinamismo y funcionalidad a los sitios web en html con efectos que hasta ahora sólo se usaban con la introducción de Adobe Flash.</p>
+              <p className="text-white-50 mb-0">Este curso está diseñado para conocer Javascript desde un punto de vista práctico y, al mismo tiempo, utilizar varias herramientas para dotar de dinamismo y funcionalidad a los sitios web en html con efectos que hasta ahora sólo se usaban con la introducción de Adobe Flash.</p>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ const Skills = ({cv}) => {
                 <div className="p-3 text-light">MySQL</div>
             </div>
         </div>
-        <div className="text-center mt-5"><a href={cv} className="btn btn-outline-secondary rounded-pill shadow-none" download={cv}>Download CV <span className="ms-1"><i className="fas fa-download"></i></span></a></div>
+        <div className="text-center mt-5"><a href={cv} className="btn btn-outline-secondary rounded-pill shadow-none" download={cv}>Descargar CV <span className="ms-1"><i className="fas fa-download"></i></span></a></div>
       </div>
     </section>
   )

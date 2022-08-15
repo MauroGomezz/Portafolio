@@ -54,7 +54,7 @@ const SobreMi = ({ cv }) => {
                 className="btn btn-primary rounded-pill"
                 download={cv}
               >
-                Download CV
+                Descargar CV
               </a>
             </div>
           </div>

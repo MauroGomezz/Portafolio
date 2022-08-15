@@ -2,7 +2,7 @@ import NavBar from "./components/NavBar";
 import Skills from "./components/Skills";
 import SobreMi from "./components/SobreMi";
 import './assets/styles.scss'
-import cv from './assets/MAURO GOMEZ.pdf'
+import cv from './assets/MAURO GOMEZcv.pdf'
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 

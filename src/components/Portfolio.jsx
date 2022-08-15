@@ -3,7 +3,8 @@ import api_pelicula_img from '../assets/img/api-peliculas.png';
 import todo_app_react_img from '../assets/img/todoApp.png';
 import drag_and_drop_img from '../assets/img/dragDrop.png';
 import weather_app from '../assets/img/weatherApp.png';
-import umplash_app from '../assets/img/unplashApp.png'
+import umplash_app from '../assets/img/unplashApp.png';
+import login_and_register from '../assets/img/login.png';
 
 const Portfolio = () => {
   return (
@@ -74,6 +75,18 @@ const Portfolio = () => {
                 Pagina hecha en React que utiliza la Api de Weather para mostar el clima del lugar que introduzcas en el buscador
               </p>
               <a className="btn btn-outline-primary btn-sm" href="https://maurogomez-weather-api.netlify.app/" target="_blank" rel="noreferrer" >Pagina</a> <a className="btn btn-outline-warning btn-sm" href="https://github.com/MauroGomezz/Weather-App-React" target="_blank" rel="noreferrer">Codigo</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100 border-0">
+            <img src={login_and_register} class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Authentication App</h5>
+              <p class="card-text">
+                Pagina de login y registro de usuarios hecha en php con base de datos sql
+              </p>
+              <a className="btn btn-outline-primary btn-sm" href="https://login-y-registro-php.herokuapp.com/" target="_blank" rel="noreferrer" >Pagina</a> <a className="btn btn-outline-warning btn-sm" href="https://github.com/MauroGomezz/Login-y-registro-php" target="_blank" rel="noreferrer">Codigo</a>
             </div>
           </div>
         </div>
